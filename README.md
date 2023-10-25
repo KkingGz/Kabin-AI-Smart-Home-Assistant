@@ -1,8 +1,5 @@
 # Kabin-AI-Smart-Home-Assistant
-this college mini project is an example of a simple code for AI assistant using Python and Arduino UNO R4 WIFI
-\
-\
-This mini project involves using an Arduino UNO R4 WiFi and communicating with Python through a Serial API.
+this college mini project is an example of a simple code for an AI assistant that involves using an Arduino UNO R4 WiFi and communicating with Python through a Serial API.
 
 It's a great way to learn about cross-platform concepts. We hope you find it helpful!
 
